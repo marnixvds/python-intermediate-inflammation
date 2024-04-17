@@ -4,6 +4,7 @@ coverage==7.4.4
 cycler==0.12.1
 dill==0.3.8
 fonttools==4.51.0
+inflammation @ file:///Users/marnix/Git_repos/python-intermediate-inflammation/dist/inflammation-1.0.0-py3-none-any.whl#sha256=2536107bf67f2f4356be4b5b060ef86a1202a807b11f1dc580dc0060c89601f7
 iniconfig==2.0.0
 isort==5.13.2
 kiwisolver==1.4.5
